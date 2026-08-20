@@ -1,6 +1,6 @@
 # Hello World
 
-A simple demo repository.
+A simple demonstration repository.
 
 ## Getting Started
 
